@@ -61,6 +61,3 @@ Find me on
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform" alt="Google Cloud Platform" width="40" height="40"/>
   
 </div>
-
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kartikmadan11)](https://git.io/streak-stats)
- [![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikmadan11)](https://github.com/anuraghazra/github-readme-stats)

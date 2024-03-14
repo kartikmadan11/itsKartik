@@ -18,7 +18,7 @@ I am a Full-Stack Developer from New Delhi, India.
 
 - 🚀 I’m working as a Specialist Programmer at Infosys and building the [Infosys Equinox](https://www.infosysequinox.com/) platform
 - 🔭 I work primarily on the MEAN stack and Microservices. I also have a deep interest in Deep Learning and Recurrent Neural Networks
-- 🖋️ Follow me on Medium [Medium](https://kartikmadan11.medium.com/)
+- 🖋️ Follow me on [Medium](https://kartikmadan11.medium.com/)
 - ⚽ I love playing and watching football
 
 <h3>
